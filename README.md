@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mikson200
+- 👋 Hi, I’m @mikson200 / Mikolaj
 - 👀 I’m interested in sports, self improvement and coding !!
 - 🌱 I’m currently learning python :)
 - 💞️ I’m looking to collaborate on ???
